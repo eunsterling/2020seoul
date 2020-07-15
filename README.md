@@ -1,6 +1,11 @@
-# 오메카(Omeka) 튜토리얼
-2020년 1학기 한성대학교 문헌정보과 "지역연계 프로젝트" 강의자료
+# 디지털 아카이빙 워크숍
+2020년 아카이브랩 X 임시공간
 
+<img src="https://github.com/ahhn/2019Omeka/raw/master/lecture/poster.png>
+
+<img src="https://github.com/ahhn/2019Omeka/raw/master/lecture/program.png>
+
+ 
  
 ## 1.오메카 개요(12:37)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xwNHzpWM_hA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -21,13 +26,13 @@
 
 ## 참고자료
 
-[강의자료1. 디지털 아키비스트 툴킷 - AtoM & Omeka (다운로드)](https://github.com/ahhn/2020oss/raw/master/lecture/@lab_Omeka_Introduction_WIDE_light.pdf)
+[강의자료1. 게릴라아카이브 (다운로드)](https://github.com/ahhn/2019Omeka/raw/master/lecture/imsi_1.pdf)
 
-[강의자료2. Omeka 동향과 활용 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture01_Introduction_to_Omeka.pdf)
+[강의자료2. 아카이브 사례 (다운로드)](https://github.com/ahhn/2019Omeka/raw/master/lecture/imsi_2.pdf)
 
-[강의자료3. 오픈소스 소프트웨어 개요 (다운로드)](https://github.com/ahhn/oss/raw/master/resources/OSS1.pdf)
+[강의자료3. 디지털 아카이브와 OSS (다운로드)](https://github.com/ahhn/2019Omeka/raw/master/lecture/imsi_3.pdf)
 
-[강의자료4. 아카이브 개요 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture00_Archives.pdf)
+[강의자료4. Omeka 동향과 활용 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture01_Introduction_to_Omeka.pdf)
 
 [강의자료5. Omeka CSV목록 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/catalog.csv)
 
@@ -38,6 +43,7 @@
 [강의자료8. 더블린 코어(Dublin Core) 설명](https://www.nl.go.kr/standards/dublincore/dublinCoreDcmes.do)
 
 [강의자료9. Omeka CSV목록 - 위치정보추가](https://github.com/ahhn/2019Omeka/raw/master/lecture/catalog2.csv)
+
 
 <br><br>
 
