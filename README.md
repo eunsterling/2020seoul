@@ -50,7 +50,7 @@
 <br><br>
 
 ## 참고 사이트
-- 강의 깃허브 : [https://github.com/ahhn/2020oss/](https://github.com/ahhn/2020oss/)
+- 강의 깃허브 : [https://github.com/ahhn/2020oss/](https://github.com/ahhn/2020imsi/)
 - Omeka.net (가입형) : [https://omeka.net](https://omeka.net)
 - Omeka Classic (설치형) : [https://omeka.org](https://omeka.org)
 - Omeka Classic 설치방법 동영상 : [https://www.youtube.com/watch?v=qfhjxUGkR0g&index=2&list=PLya-3fVEf50Zj0bfFbkRpxuwO6J9mh4Pf](https://www.youtube.com/watch?v=qfhjxUGkR0g&index=2&list=PLya-3fVEf50Zj0bfFbkRpxuwO6J9mh4Pf)
