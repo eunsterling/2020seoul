@@ -46,7 +46,6 @@
 
 [강의자료9. Omeka CSV목록 - 위치정보추가](https://github.com/ahhn/2019Omeka/raw/master/lecture/catalog2.csv)
 
-
 <br><br>
 
 ## 참고 사이트
