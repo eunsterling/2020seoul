@@ -28,11 +28,11 @@
 
 ## 참고자료
 
-[강의자료1. 게릴라아카이브 (다운로드)](https://github.com/ahhn/202Oimsi/raw/master/lecture/imsi_1.pdf)
+[강의자료1. 게릴라아카이브 (다운로드)](https://github.com/ahhn/2020imsi/raw/master/lecture/imsi_1.pdf)
 
-[강의자료2. 아카이브 사례 (다운로드)](https://github.com/ahhn/202Oimsi/raw/master/lecture/imsi_2.pdf)
+[강의자료2. 아카이브 사례 (다운로드)](https://github.com/ahhn/2020imsi/raw/master/lecture/imsi_2.pdf)
 
-[강의자료3. 디지털 아카이브와 OSS (다운로드)](https://github.com/ahhn/202Oimsi/raw/master/lecture/imsi_3.pdf)
+[강의자료3. 디지털 아카이브와 OSS (다운로드)](https://github.com/ahhn/2020imsi/raw/master/lecture/imsi_3.pdf)
 
 [강의자료4. Omeka 동향과 활용 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture01_Introduction_to_Omeka.pdf)
 
