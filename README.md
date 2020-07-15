@@ -1,11 +1,12 @@
 # 디지털 아카이빙 워크숍
 2020년 아카이브랩 X 임시공간
 
-<img src="https://github.com/ahhn/2019Omeka/raw/master/lecture/poster.png>
 
-<img src="https://github.com/ahhn/2019Omeka/raw/master/lecture/program.png>
+<img src="https://github.com/ahhn/2019Omeka/raw/master/lecture/poster.png">
 
- 
+<img src="https://github.com/ahhn/2019Omeka/raw/master/lecture/program.png">
+
+
  
 ## 1.오메카 개요(12:37)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xwNHzpWM_hA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
