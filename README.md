@@ -46,6 +46,8 @@
 
 [강의자료9. Omeka CSV목록 - 위치정보추가](https://github.com/ahhn/2019Omeka/raw/master/lecture/catalog2.csv)
 
+[강의자료10. 소규모 아카이브 기술규칙](https://github.com/ahhn/2020imsi/raw/master/lecture/%EC%86%8C%EA%B7%9C%EB%AA%A8%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C%EA%B8%B0%EC%88%A0%EA%B7%9C%EC%B9%99.pdf)
+
 <br><br>
 
 ## 참고 사이트
