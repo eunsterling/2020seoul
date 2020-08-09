@@ -6,10 +6,10 @@
         1000,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv",
+      "tensorPath": "https://github.com/ahhn/2020imsi/raw/master/code/all_tensor.tsv",
+      "metadataPath": "https://github.com/ahhn/2020imsi/raw/master/code/all_metadata.tsv",
       "sprite": {
-        "imagePath": "https://github.com/.../optional.sprite.png",
+        "imagePath": "https://github.com/ahhn/2020imsi/raw/master/code/optional.sprite.png",
         "singleImageDim": [
           32,
           32
