@@ -2,10 +2,10 @@
 2020년 아카이브랩 X 임시공간
 
 ## 포스터
-<img src="https://github.com/ahhn/2020imsi/raw/master/lecture/poster.png">
+<img src="https://github.com/ahhn/2020seoul/raw/master/lecture/poster.jpg">
 
 ## 프로그램
-<img src="https://github.com/ahhn/2020imsi/raw/master/lecture/program.png">
+<img src="https://github.com/ahhn/2020seoul/raw/master/lecture/program.jpg">
 
 
  
