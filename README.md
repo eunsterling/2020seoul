@@ -55,7 +55,7 @@
 <br><br>
 
 ## 참고 사이트
-- 강의 깃허브 : [https://github.com/ahhn/2020imsi/](https://github.com/ahhn/2020imsi/) 
+- 강의 깃허브 : [https://github.com/ahhn/2020seoul/](https://github.com/ahhn/2020seoul/) 
 - Omeka 실습 사이트 : [http://52.79.151.228/admin](http://52.79.151.228/admin)
 - Omeka.net (가입형) : [https://omeka.net](https://omeka.net)
 - Omeka Classic (설치형) : [https://omeka.org](https://omeka.org)
