@@ -15,7 +15,7 @@
 
 [강의자료3. 아카이브 사례 (다운로드)](https://github.com/ahhn/2020seoul/raw/master/lecture/OSS2020_seoul3.pdf)
 
-[강의자료4. 아카이빙 계획서 샘플 (다운로드)](https://github.com/ahhn/2020seoul/raw/master/plan/plan_superman_sample.doc)
+[강의자료4. 아카이빙 계획서 샘플 (다운로드)](https://github.com/ahhn/2020seoul/raw/master/plan/plan_superman_sample.docx)
 
 ### 아카이빙 계획서
 1. 개요 (아카이브 제목, 만들게 된 배경)
@@ -50,7 +50,7 @@
 
 [강의자료3. 아카이브 사례 (다운로드)](https://github.com/ahhn/2020seoul/raw/master/lecture/OSS2020_seoul3.pdf.pdf)
 
-[강의자료4. 아카이빙 계획서 샘플 (다운로드)](https://github.com/ahhn/2020seoul/raw/master/plan/plan_superman_sample.doc)
+[강의자료4. 아카이빙 계획서 샘플 (다운로드)](https://github.com/ahhn/2020seoul/raw/master/plan/plan_superman_sample.docx)
 
 [강의자료5. Omeka 동향과 활용 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture01_Introduction_to_Omeka.pdf)
 
