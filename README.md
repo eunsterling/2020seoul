@@ -1,5 +1,5 @@
 # 디지털 아카이빙 워크숍
-2020년 아카이브랩 X 임시공간
+2020년 아카이브랩 X 
 
 ## 포스터
 <img src="https://github.com/ahhn/2020seoul/raw/master/lecture/poster.jpg">
@@ -16,6 +16,15 @@
 [강의자료3. 아카이브 사례 (다운로드)](https://github.com/ahhn/2020seoul/raw/master/lecture/OSS2020_seoul3.pdf)
 
 [강의자료4. 아카이빙 계획서 샘플 (다운로드)](https://github.com/ahhn/2020seoul/tree/master/plan2)
+
+과제 : 아카이빙 계획서 제출 (daejin@archivelab.co.kr)
+
+## 2일차
+아카이빙 계획서 검토
+파일 정리
+오메카 회원가입 : https://omeka.net
+오메카 실습 사이트 : http://52.79.151.228/admin
+
 
 ### 아카이빙 계획서
 1. 개요 (아카이브 제목, 만들게 된 배경)
