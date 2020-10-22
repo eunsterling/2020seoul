@@ -1,5 +1,5 @@
 # 디지털 아카이빙 워크숍
-2020년 아카이브랩 X 
+2020년 아카이브랩 X 서울기록원
 
 ## 포스터
 <img src="https://github.com/ahhn/2020seoul/raw/master/lecture/poster.jpg">
