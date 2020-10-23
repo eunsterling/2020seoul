@@ -29,7 +29,7 @@
 
 ## 2일차
 - 아카이빙 계획서 검토
-- 파일포맷 정리 : https://github.com/CPHDH/Curatescape/wiki/Formatting-requirements
+- 파일포맷 정리 : [링크](https://github.com/CPHDH/Curatescape/wiki/Formatting-requirements) [다운로드](https://github.com/ahhn/2020seoul/raw/master/lecture/format_curatescape.pdf)
 - 오메카 회원가입 : https://omeka.net
 - 오메카 실습 사이트 : http://52.79.151.228/admin
 
