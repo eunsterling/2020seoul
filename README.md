@@ -9,13 +9,20 @@
 
 
 ## 1일차
+아카이브 개요 강의
+
 [강의자료1. 기록과 아카이브 (다운로드)](https://github.com/ahhn/2020seoul/raw/master/lecture/OSS2020_seoul1.pdf)
 
 [강의자료2. 아카이브 동향 (다운로드)](https://github.com/ahhn/2020seoul/raw/master/lecture/OSS2020_seoul2.pdf)
 
 [강의자료3. 아카이브 사례 (다운로드)](https://github.com/ahhn/2020seoul/raw/master/lecture/OSS2020_seoul3.pdf)
 
+아카이빙 계획서 작성(14명 제출)
+
+아카이빙 계획서 코멘트
+
 [강의자료4. 아카이빙 계획서 샘플 (다운로드)](https://github.com/ahhn/2020seoul/tree/master/plan2)
+
 
 ### 아카이빙 계획서
 1. 개요 (아카이브 제목, 만들게 된 배경)
@@ -28,11 +35,14 @@
 
 
 ## 2일차
-- 아카이빙 계획서 검토
+- 아카이빙 계획서 검토(5명 업데이트)
 - 파일포맷 정리 : [링크](https://github.com/CPHDH/Curatescape/wiki/Formatting-requirements) [다운로드](https://github.com/ahhn/2020seoul/raw/master/lecture/format_curatescape.pdf)
 - Zotero 실습 : [https://www.zotero.org/}(https://www.zotero.org/)
-- 오메카넷 회원가입 : [https://omeka.net](https://omeka.net)
-- 오메카 실습 사이트 : [http://52.79.151.228/admin](http://52.79.151.228/admin)
+- 오메카넷 실습 : [https://omeka.net](https://omeka.net)
+-- 전반 기능과 설정방법 소개, 
+-- 아이템/컬렉션 등록
+-- 소개페이지 만들기
+- 오메카 실습 사이트 로그인 : [http://52.79.151.228/admin](http://52.79.151.228/admin)
 
 ## 3일차
 [강의자료12. 아카이브 정리와 기술](https://github.com/ahhn/2020imsi/raw/master/lecture/%EB%94%94%EC%A7%80%ED%84%B8%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B9%99%ED%88%B4%ED%82%B7%EC%9B%8C%ED%81%AC%EC%88%8D.pdf)
