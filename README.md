@@ -30,8 +30,8 @@
 ## 2일차
 - 아카이빙 계획서 검토
 - 파일포맷 정리 : [링크](https://github.com/CPHDH/Curatescape/wiki/Formatting-requirements) [다운로드](https://github.com/ahhn/2020seoul/raw/master/lecture/format_curatescape.pdf)
-- 오메카 회원가입 : https://omeka.net
-- 오메카 실습 사이트 : http://52.79.151.228/admin
+- 오메카넷 회원가입 : [https://omeka.net](https://omeka.net)
+- 오메카 실습 사이트 : [http://52.79.151.228/admin](http://52.79.151.228/admin)
 
 ## 3일차
 [강의자료12. 아카이브 정리와 기술](https://github.com/ahhn/2020imsi/raw/master/lecture/%EB%94%94%EC%A7%80%ED%84%B8%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B9%99%ED%88%B4%ED%82%B7%EC%9B%8C%ED%81%AC%EC%88%8D.pdf)
