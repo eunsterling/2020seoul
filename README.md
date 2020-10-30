@@ -8,7 +8,7 @@
 <img src="https://github.com/ahhn/2020seoul/raw/master/lecture/program.jpg">
 
 
-## 1일차
+### 1일차
 아카이브 개요 강의
 
 [강의자료1. 기록과 아카이브 (다운로드)](https://github.com/ahhn/2020seoul/raw/master/lecture/OSS2020_seoul1.pdf)
@@ -24,17 +24,17 @@
 [강의자료4. 아카이빙 계획서 샘플 (다운로드)](https://github.com/ahhn/2020seoul/tree/master/plan2)
 
 
-### 아카이빙 계획서
+#### 아카이빙 계획서
 1. 개요 (아카이브 제목, 만들게 된 배경)
 2. 범위와 목적 : 범위(시공간적 범위), 목적(누구를 위해 왜 만들었는지)
 3. 키워드 : 아카이브를 설명할 수 있는 주요 키워드
 4. 영역별 수집대상 : 수집할 대상을 서너개 영역으로 구분하여 예상되는 기록을 표기
 
-### 과제 : 아카이빙 계획서 제출 (daejin@archivelab.co.kr)
+#### 과제 : 아카이빙 계획서 제출 (daejin@archivelab.co.kr)
 
 
 
-## 2일차
+### 2일차
 - 아카이빙 계획서 검토(5명 업데이트)
 - 파일포맷 정리 : [링크](https://github.com/CPHDH/Curatescape/wiki/Formatting-requirements) [다운로드](https://github.com/ahhn/2020seoul/raw/master/lecture/format_curatescape.pdf)
 - Zotero 실습 : [https://www.zotero.org/}(https://www.zotero.org/)
@@ -44,15 +44,16 @@
 -- 소개페이지 만들기
 - 오메카 실습 사이트 로그인 : [http://52.79.151.228/admin](http://52.79.151.228/admin)
 
-## 3일차
+### 3일차
 [강의자료12. 아카이브 정리와 기술](https://github.com/ahhn/2020imsi/raw/master/lecture/%EB%94%94%EC%A7%80%ED%84%B8%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B9%99%ED%88%B4%ED%82%B7%EC%9B%8C%ED%81%AC%EC%88%8D.pdf)
 
 [강의자료13. 소규모 아카이브 기술규칙](https://github.com/ahhn/2020imsi/raw/master/lecture/%EC%86%8C%EA%B7%9C%EB%AA%A8%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C%EA%B8%B0%EC%88%A0%EA%B7%9C%EC%B9%99.pdf)
 
-## 4일차
+### 4일차
 - 전시(Exhibition) 구성
 - 전시(Exhibition) 콘텐츠 작성
 
+## 참고영상
 
 ## 1.오메카 개요(12:37)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xwNHzpWM_hA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
