@@ -59,6 +59,25 @@
 <img src="https://s3.amazonaws.com/libapps/accounts/17288/images/ExhibitBuilder3structure.png">
 이미지 출처: https://libguides.whitman.edu/omeka/docs
 
+## 5일차
+
+1. 전시 레이아웃 추가
+– Block Party
+– CA Layouts
+– Mosaic
+– Exhibit Image Annotation
+– Editorial :전시 페이지 내 저자 답변블록 생성
+
+2. 플러그인 소개
+- Clickable Links Plus : 메타데이터 내 URL의 하이퍼링크 자동 생성
+- Email Notification : 특정 사용자에게 아이템/컬렉션/전시 추가 알림 이메일 발송
+- Zotero Import : Zotero 웹 아카이빙 컬렉션을 오메카 아이템으로 가져오기
+
+3. 소개 페이지 만들기(SimplePage)
+4. 참여자 아카이브 프로젝트 소개
+5. 질문답변
+
+
 ## 참고영상
 
 ## 1.오메카 개요(12:37)
