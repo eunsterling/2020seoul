@@ -63,7 +63,7 @@
 
 1.전시 레이아웃 추가
 
-– [Block Party](https://github.com/jaguillette/BlockParty)
+- [Block Party](https://github.com/jaguillette/BlockParty)
 
 – [CA Layouts](https://github.com/rgilg/plugin-CALayouts)
 
