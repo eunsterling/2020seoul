@@ -75,9 +75,13 @@
 - Email Notification : 특정 사용자에게 아이템/컬렉션/전시 추가 알림 이메일 발송
 - Zotero Import : Zotero 웹 아카이빙 컬렉션을 오메카 아이템으로 가져오기
 
-3. 소개 페이지 만들기(SimplePage)
-4. 참여자 아카이브 프로젝트 소개
-5. 질문답변
+3. [Curatescape](https://curatescape.org/)
+
+4. [Omeka S 샌드박스](https://omeka.org/s/download/#sandbox)
+
+5. 참여자 아카이브 프로젝트 소개
+
+6. 질문답변
 
 
 ## 참고영상
