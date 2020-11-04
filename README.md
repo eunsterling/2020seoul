@@ -64,12 +64,9 @@
 1.전시 레이아웃 추가
 
 - [Block Party](https://github.com/jaguillette/BlockParty)
-
-– [CA Layouts](https://github.com/rgilg/plugin-CALayouts)
-
-– [Mosaic](https://github.com/ExpoBUS/Mosaic)
-
-– [Exhibit Image Annotation](https://omeka.org/classic/plugins/ExhibitImageAnnotation/)
+- [CA Layouts](https://github.com/rgilg/plugin-CALayouts)
+- [Mosaic](https://github.com/ExpoBUS/Mosaic)
+- [Exhibit Image Annotation](https://omeka.org/classic/plugins/ExhibitImageAnnotation/)
 
 2.플러그인 소개
 
