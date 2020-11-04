@@ -63,17 +63,16 @@
 
 1. 전시 레이아웃 추가
 
-– Block Party
-– CA Layouts
-– Mosaic
-– Exhibit Image Annotation
-– Editorial :전시 페이지 내 저자 답변블록 생성
+– [Block Party](https://github.com/jaguillette/BlockParty)
+– [CA Layouts](https://github.com/rgilg/plugin-CALayouts)
+– [Mosaic](https://github.com/ExpoBUS/Mosaic)
+– [Exhibit Image Annotation](https://omeka.org/classic/plugins/ExhibitImageAnnotation/)
 
 2. 플러그인 소개
 
-- Clickable Links Plus : 메타데이터 내 URL의 하이퍼링크 자동 생성
-- Email Notification : 특정 사용자에게 아이템/컬렉션/전시 추가 알림 이메일 발송
-- Zotero Import : Zotero 웹 아카이빙 컬렉션을 오메카 아이템으로 가져오기
+- [Clickable Links Plus](https://omeka.org/classic/plugins/ClickableLinksPlus/) : 메타데이터 내 URL의 하이퍼링크 자동 생성
+- [Email Notification](https://omeka.org/classic/plugins/EmailNotification/) : 특정 사용자에게 아이템/컬렉션/전시 추가 알림 이메일 발송
+- [Zotero Import](https://omeka.org/classic/plugins/ZoteroImport/) : Zotero 웹 아카이빙 컬렉션을 오메카 아이템으로 가져오기
 
 3. [Curatescape](https://curatescape.org/)
 
